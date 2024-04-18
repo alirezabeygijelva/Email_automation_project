@@ -1,0 +1,4 @@
+venv/
+Redis/
+.vscode/
+celerybeat-schedule*
